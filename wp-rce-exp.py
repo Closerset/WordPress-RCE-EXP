@@ -2,7 +2,6 @@
 # -*- coding:utf-8 -*-
 # @author JourWon
 # @date 2021/4/8
-# @file S2-053-EXP.py.py
 import requests
 import sys
 
