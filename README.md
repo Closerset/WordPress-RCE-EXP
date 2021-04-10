@@ -1,4 +1,8 @@
 # WordPress-RCE-EXP
+# 影响版本
+漏洞编号：CVE-2016-10033 （基于）
+WordPress <= 4.7.1 
+PHPMailer < 5.2.18
 # 0x1漏洞检测
 
 ```
